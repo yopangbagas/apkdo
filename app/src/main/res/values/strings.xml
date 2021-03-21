@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aplikasi android</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">sign-in</string>
+    <string name="var1">ini pesan</string>
+    <string name="tData">Data Anda</string>
+    <string name="txpassword">ini hasil Password</string>
+    <string name="txEmail">ini hasil email</string>
+    <string name="label12">Login Berhasil</string>
+</resources>
